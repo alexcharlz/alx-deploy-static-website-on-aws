@@ -1,5 +1,5 @@
 # alx-deploy-static-website-on-aws
-Deploy a statisc website on aws
+Deploy a static website on aws
 
 Cloud Developer Project - Static Website on AWS
 
